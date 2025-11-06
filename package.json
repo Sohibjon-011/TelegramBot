@@ -1,6 +1,7 @@
 {
   "name": "telegram-bot-video-1",
   "scripts": {
+    "start": "node index.js",
     "dev": "nodemon index.js",
     "format": "prettier --ignore-unknown --write ."
   },
